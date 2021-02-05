@@ -17,8 +17,11 @@ Distribution of Data across topics
 **Text cleaning procedure**
 
 dropna
+
 remove stopwords and words with length less than 2
+
 removed numerical text
+
 lemmatized words
 
 **Dataset snapshot after cleaning**
@@ -35,16 +38,22 @@ Bag of word vectorisation using TF-IDF.
 **Classification models built**
 
 NaiveBayes Classifier
+
 KNN classifier
+
 Random forest classifier
+
 Deep neural network classifier.
 
 
 **Metrics used for model evaluation**
 
-Classification report
+Classification report-precision,recall,F1-score
+
 Confusion matrix
+
 ROC Curve
+
 Precision recall curve
 
 **Choice of metrics**
