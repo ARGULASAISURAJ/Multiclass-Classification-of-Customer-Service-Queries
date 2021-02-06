@@ -65,3 +65,14 @@ From the above models(Naive Bayes, Random Forest, K-nearest Neighbour, Deep Neur
 Naive bayes worked best on holdout dataset with weighted avg F1 score of 0.93 compared to Random forest, KNN and DNN with F1 score of 0.92, 0.84, 0.88 respectively.
 when it comes to AUC- Naive bayes performed well with an AUC of 0.99 compared to Random forest 0.98, KNN 0.96 and DNN- 0.98
 New models implemented-KNN,DNN
+
+
+Thanks,
+
+**Sai Suraj Argula**
+
+Phone no - +1 8135396715
+
+LinkedIn - https://www.linkedin.com/in/suraj-argula/
+
+Website - https://argulasaisuraj.github.io/Suraj_Website/
